@@ -1,0 +1,100 @@
+
+.row {
+    display: flex;
+    
+    justify-content: center;
+    text-align: center;
+}
+
+.row-vertical {
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+}
+
+#testHorizontal{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    }
+
+.horizontal{
+display: flex;
+flex-direction: row;
+justify-content: center;
+text-align: center;
+}
+
+.icon-size {
+    width: 150px;
+    height: 150px;
+}
+
+.icon-size2 {
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+}
+
+
+.animation-size {
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Border {
+    background-image: url("/images/SweetHeart.gif"); 
+    background-size: cover;
+    align-items: center;
+    height: auto;
+    width: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.Border1 {
+    background-image: url("/images/boyfriend.gif"); 
+    background-size: cover;
+    align-items: center;
+    height: auto;
+    width: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.Border2 {
+    background-image: url("/images/bread.gif"); 
+    background-size: cover;
+    align-items: center;
+    height: auto;
+    width: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.Border3 {
+    background-image: url("/images/cold.gif"); 
+    background-size: cover;
+    align-items: center;
+    height: auto;
+    width: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin-right: 50px;
+}
+
+.text{
+    color: black;
+}
+
+
+
+
